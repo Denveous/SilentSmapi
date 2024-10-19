@@ -1,5 +1,5 @@
 ﻿using System.Diagnostics;
-namespace StardewModdingAPIWindowCount {
+namespace SilentSmapi {
     class Program {
         static string[] programArguments = Environment.GetCommandLineArgs();
         static string[] smapiArguments = programArguments.Skip(1)
