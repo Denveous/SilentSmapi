@@ -16,13 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="C:\Users\tward\OneDrive\Desktop\6f598110-b329-4573-b1f9-f179a9772ac8-2.png">
-      <Pack>True</Pack>
-      <PackagePath>\</PackagePath>
-    </None>
-  </ItemGroup>
-
-  <ItemGroup>
     <None Update="icon.ico">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
